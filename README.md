@@ -1,4 +1,4 @@
-Hi 👋 My name is Didier Gonzalez
+Hi  I'm Didier 👋
 ================================
 
 Student and Developer
