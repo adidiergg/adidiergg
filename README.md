@@ -1,7 +1,7 @@
 Hi  I'm Didier 👋
 ================================
 
-Student and Developer
+Developer
 ---------------------
 
 * 🌍  I'm based in Mexico
