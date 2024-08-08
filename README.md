@@ -4,7 +4,6 @@ Hi  I'm Didier 👋
 Developer
 ---------------------
 
-* 🌍  I'm based in Mexico
 * 🧠  I'm learning  React js, Tailwind CSS and Laravel 
 * ✉️  You can contact me at [alandidiergon@gmail.com](mailto:alandidiergon@gmail.com)
 
