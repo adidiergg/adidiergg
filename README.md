@@ -52,7 +52,7 @@ Developer
 </td></tr></table>  
 
 <br/>  
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+### Top langs  
+[![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=adidiergg)](https://github.com/anuraghazra/github-readme-stats)
 
 
