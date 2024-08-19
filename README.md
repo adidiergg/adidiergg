@@ -1,7 +1,7 @@
 Hi  I'm Didier 👋
 ================================
 
-Developer
+Jr. Software Enginner | Full Stack Developer (React and Python)
 ---------------------
 
 * 🧠  I'm learning  React js, Tailwind CSS and Laravel 
