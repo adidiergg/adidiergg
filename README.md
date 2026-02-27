@@ -1,10 +1,9 @@
 Hi  I'm Didier 👋
 ================================
 
-Jr. Software Enginner | Full Stack Developer (React and Python)
+Software Enginner | Mobile Developer
 ---------------------
 
-* 🧠  I'm learning  React js, Tailwind CSS and Laravel 
 * ✉️  You can contact me at [alandidiergon@gmail.com](mailto:alandidiergon@gmail.com)
 
 ### Skills
