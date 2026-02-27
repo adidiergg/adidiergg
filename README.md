@@ -51,8 +51,6 @@ Software Enginner | Mobile Developer
 
 <br/>  
 
-### Top Languages
 
-[![Top langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=adidiergg)](https://github.com/anuraghazra/github-readme-stats)
 
 
